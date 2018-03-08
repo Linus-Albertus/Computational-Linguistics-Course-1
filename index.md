@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página web del curso
 
-You can use the [editor on GitHub](https://github.com/Linus-Albertus/Computational-Linguistics-Course-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El objetivo principal de este curso de maestría es definir qué es, y las tareas que cumple, un lingüista computacional en la actualidad. La perspectiva que presentamos se basa en la concepción de que el lingüista computacional es un científico que trabaja con datos relacionados con el lenguaje natural, y que por lo tanto puede desempeñar diversas tareas de investigación tanto en el sector público como en la boyante industria privada, sobre todo en la que desarrolla productos relacionados con el lenguaje y la inteligencia artificial.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La metodología que voy a utilizar para intentar definir la identidad del lingüista computacional es la de la discusión teórica crítica, y la solución práctica de ejercicios que simulen problemas de investigación reales. Espero que las lecturas y las prácticas nos permitan entender qué es un lingüista computacional, y por qué es un profesional que puede aportar una visión única y complementaria en muchos campos, sobre todo en los que relacionan tecnología y lenguaje. Y es que estos dos mundos, la tecnología y el lenguaje, convergen ahora más que nunca.
 
-### Markdown
+Espero que el curso que presento les sea útil y, por qué no, muy entretenido. A mí, en todo caso, la Lingüística, en especial la Computacional, me ha dado muchas satisfacciones (aunque a ratos -muy breves y escasos- es totalmente frustrante). Creo que la mejor forma de estudiar en comprendiendo; y que la mejor forma de comprender es que el estudio sea lo más divertido e interesante que sea posible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Esta página alona el esquema general del curso. Cabe destacar que el curso es semi-presencial, aunque intentaré que lo que está en línea sea lo más autosuficente posible.
 
-```markdown
-Syntax highlighted code block
+## Descripción general del curso
 
-# Header 1
-## Header 2
-### Header 3
+En este curso se introducen algunos problemas, modelos y técnicas generales utilizados por la Lingüística Computacional, en particular en relación con la Morfología y la Sintaxis del español. Se delimitan las tareas del lingüista computacional dentro de un ámbito multidisciplinario que incluye el Procesamiento del Lenguaje Natural, la Inteligencia Artificial, la Lingüística de Corpus y la Ciencia de Datos. En esta asignatura se trabajará, principalmente, con modelos simbólicos y, en menor medida, con modelos estadísticos. Se define el perfil del lingüista computacional y se proporcionan los modelos y herramientas necesarias que se requieren para investigar en esta subdisciplina de la Lingüística Aplicada.
 
-- Bulleted
-- List
+## Programa
 
-1. Numbered
-2. List
+Puede ver el programa del curso [aquí](https://docs.google.com/document/d/1fCyVtwDz1JAw9zlGvgvoI0U82YnaZResalIFi_xhGAk/edit?usp=sharing).
 
-**Bold** and _Italic_ and `Code` text
+## Contacto
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Linus-Albertus/Computational-Linguistics-Course-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Correo-e: lino.urdaneta@gmail.com
