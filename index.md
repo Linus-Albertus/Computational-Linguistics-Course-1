@@ -18,7 +18,7 @@ Puede ver el programa del curso [aquí](https://docs.google.com/document/d/1fCyV
 
 ## Requerimientos
 
-Para las prácticas del curso se requieren una serie de aplicaciones y algunas cuentas en servicios en línea. A continuación se detallarán las más esenciales.
+Para las prácticas del curso se requieren una serie de aplicaciones y algunas cuentas en servicios en línea. A continuación se señalan las esenciales.
 
 Apps:
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -28,6 +28,7 @@ Apps:
 Cuentas y Apps en línea:
 * Telegram
 * [Protégé](https://protege.stanford.edu)
+* [GitHub](https://github.com)
 
 ## Contacto
 
