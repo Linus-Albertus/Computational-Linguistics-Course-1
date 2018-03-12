@@ -16,6 +16,19 @@ En este curso se introducen algunos problemas, modelos y técnicas generales uti
 
 Puede ver el programa del curso [aquí](https://docs.google.com/document/d/1fCyVtwDz1JAw9zlGvgvoI0U82YnaZResalIFi_xhGAk/edit?usp=sharing).
 
+## Requerimientos
+
+Para las prácticas del curso se requieren una serie de aplicaciones y algunas cuentas en servicios en línea. A continuación se detallarán las más esenciales.
+
+Apps:
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Anaconda](https://www.anaconda.com/download/#macos)
+* [Nooj](http://www.nooj-association.org/index.php?option=com_k2&view=item&layout=item&id=4&Itemid=615)
+
+Cuentas y Apps en línea:
+* Telegram
+* [Protégé](https://protege.stanford.edu)
+
 ## Contacto
 
 Correo-e: lino.urdaneta@gmail.com
