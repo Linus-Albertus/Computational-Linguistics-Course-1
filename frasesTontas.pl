@@ -2,6 +2,7 @@ palabra(articulo,la).
 palabra(articulo,una).
 palabra(nombre,caballota).
 palabra(nombre,'niña buena').
+palabra(nombre, 'niña')
 palabra(adjetivo,tremenda).
 palabra(adjetivo,'estúpida').
 palabra(preposicion,a).
